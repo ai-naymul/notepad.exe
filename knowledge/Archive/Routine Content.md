@@ -1,415 +1,372 @@
-
-
 # Your Actual Routine — Feb 10, 2026 Onwards
 
-## Built from First Principles, Not Wishful Thinking
+## Built for Reality, Not Ambition Theater
 
 ---
 
-## Why Your Previous Roadmap Failed
+## The Hard Truth First
 
-That 500-line roadmap tried to schedule 95+ hours/week across 6 parallel tracks. You're human. The reason you couldn't follow it is because **no one can follow a plan that requires perfection every single day for 15 months.** The plan was a strategy document, not a routine.
+IIUC is a small, unknown university in Bangladesh. No US admissions officer has heard of it. When they see your transcript, they won't think "oh, a 4.0 from IIUC, impressive" — they'll think "who is this person and why should we take a chance on them?"
 
-This is different. This is what you actually do each day.
+This means your GPA alone won't carry you. A 4.0 from IIUC ≠ a 4.0 from BUET in their eyes. You need **overwhelming evidence** that you're exceptional despite the institution:
 
----
+- A paper at EMNLP/ACL says "this person does real research at a global level"
+- DET 125+ / SAT 1450+ says "this person can handle English-medium instruction"
+- AIMarketCap (1M+ users) + Drishtikon says "this person builds real things that people use"
+- LangChain / open source contributions say "this person operates in global engineering communities"
 
-## First Principles Reality Check
+Your GPA still matters (they'll question a low one), but it's the **combination** that overcomes the IIUC bias. One publication at a top venue does more for your application than the difference between a 3.9 and 4.0.
 
-**What actually gets you into a top US university as a transfer?**
+**So the priority order shifts slightly:**
 
-1. **4.0 GPA at IIUC** — This is the single highest-leverage thing. Without it, nothing else matters. Admissions officers see your transcript first.
-2. **A published paper at a top venue** — One strong EMNLP/ACL paper > five mediocre projects. This is your differentiator from thousands of other transfer applicants.
-3. **DET/TOEFL + SAT scores** — These are gatekeepers. You need 125+ DET and 1450+ SAT. They don't make you special, but missing them kills your app.
-4. **A compelling narrative** — Your story (Bengali AI, Drishtikon, AIMarketCap) is already strong. You don't need more projects. You need depth in existing ones.
-
-**What does NOT move the needle as much as you think?**
-
-- Doing 10 things at once. Admissions doesn't count activities — they look for depth and impact.
-- ICPC World Finals prep right now. This is a 2-3 year goal. If you spread yourself thin on CP while tanking GPA or missing paper deadlines, you lose both.
-- Taking MIT/Harvard courseware simultaneously. You're already taking a full IIUC course load. External courses are for summer/breaks.
-
----
-
-## Your Actual Constraints
-
-- **IIUC classes:** Sun–Thu, ~8 AM to ~2-3 PM (with breaks between)
-- **Weekend:** Fri–Sat (Bangladesh)
-- **Lecture Period I:** Feb 7 – Apr 4 (you're in Week 1 right now)
-- **Midterms:** Apr 6–20
-- **You need:** afternoon walk, daytime rest, sanity
-- **Freelance income:** non-negotiable, 2-4 hrs/day
-- **Sleep:** 7-8 hours minimum (you historically sleep late — we work WITH that, not against it)
+|Rank|Activity|Why It Overcomes the Bias|
+|---|---|---|
+|**#1**|IIUC GPA (4.0)|Table stakes — bad GPA = instant reject|
+|**#2**|Research paper (EMNLP)|THE differentiator. Proves global-level ability|
+|**#3**|Freelance (income)|You need to eat. Also builds your "builder" narrative|
+|**#4**|DET + SAT|Gatekeepers. Must pass, but won't make you special|
+|**#5**|CP / ICPC|Backup plan + demonstrates raw problem-solving|
+|**#6**|Open source + projects|Supporting evidence, not primary|
+|**#7**|External courses|For your growth, invisible on application|
 
 ---
 
-## The Priority Stack (Feb–Apr 2026)
+## Your Real Constraints
 
-You can't do everything equally. Here's the honest ranking for THIS period:
+- **Class days:** Saturday, Sunday, Monday, Tuesday, Wednesday (5 days)
+- **At IIUC:** 8:30 AM – 5:30 PM (includes ~1-2 hours of breaks in between)
+- **Weekends:** Thursday + Friday
+- **After 5:30 PM you're burnt out.** This is a fact, not a weakness.
+- **Commute eats time.** Let's say 30 min each way.
+- **You need rest, a walk, and food.** Non-negotiable.
 
-|Rank|Activity|Why|Weekly Hours|
+**Realistic evening window on class days:** 6:00 PM – 12:30 AM = ~6.5 hours But you're tired. The first hour is recovery. Honest productive time = **~5 hours/evening.**
+
+---
+
+## CLASS DAYS (Saturday – Wednesday)
+
+### Morning: Before IIUC
+
+**6:15 AM** — Wake up, shower, get ready
+
+**6:45–7:15 AM** — DET/English practice (30 min)
+
+- Duolingo app, vocabulary cards, or a quick reading exercise
+- Low effort, high consistency. Do this half-asleep, it still counts.
+- _30 min/day × 5 days = 2.5 hrs/week of test prep with zero willpower needed_
+
+**7:15–7:30 AM** — Breakfast
+
+**7:30–8:00 AM** — Commute to IIUC
+
+### At IIUC: 8:30 AM – 5:30 PM
+
+**During classes:** Be fully present. Front row. Take notes. Ask questions. This is the most efficient path to 4.0 — understanding in class means less studying later.
+
+**During breaks (~1-2 hrs total across the day):**
+
+Use the library or a quiet spot. Pick ONE per break:
+
+|If break is...|Do this|
+|---|---|
+|30 min|Review the lecture you just had. Re-read notes. Mark confusing parts.|
+|45 min|Solve 2-3 Codeforces problems (Div 2 A/B level). Keep CP muscle alive.|
+|60 min|Collect 5-8 BengaliBench questions from your phone/laptop. Or read 1 paper.|
+|You're exhausted|Rest. Close your eyes. Eat something. A rested brain in the next class > forced productivity.|
+
+**Do NOT do freelance in breaks.** It needs focus you don't have in 30-min fragments.
+
+### After IIUC: The Evening
+
+**5:30–6:00 PM** — Commute home
+
+**6:00–6:45 PM** — Decompress + Walk (45 min)
+
+- Change clothes, eat a light snack
+- **Go for your walk NOW**, not later. You asked for this.
+- Walk for 20-30 min. No laptop. No studying. Just move.
+- This is the transition between "student mode" and "evening work mode"
+
+**6:45–7:30 PM** — Dinner + full rest (45 min)
+
+- Eat a real meal. Talk to family.
+- You've been at uni for 9 hours. You earned this.
+
+**7:30–9:30 PM** — Research Block (2 hrs)
+
+- This is your most important evening block.
+- **Sat/Mon/Wed:** BengaliBench question collection + annotation
+    - Target: 10-15 questions per session
+    - SSC/HSC textbooks, Bengali proverbs, safety scenarios
+- **Sun/Tue:** Paper writing + reading related work
+    - Draft sections, read benchmark papers, run model evaluations
+    - Read Between Lines expansion (15-20 min within this block)
+
+_Why research at 7:30, not freelance?_ Because you're still somewhat fresh. Research needs creative thinking. Freelance is more mechanical (you already know how to code). Give your best remaining energy to the thing that matters most for transfer.
+
+**9:30–9:45 PM** — Short break (15 min)
+
+- Tea, stretch, bathroom. Reset.
+
+**9:45 PM–12:15 AM** — Freelance Work (2.5 hrs)
+
+- Active client project work
+- If no active project: Drishtikon features, AIMarketCap, or searching for new clients
+- This is your income block. It's later because it's more execution than creation.
+
+**12:15–12:30 AM** — Wind down
+
+- Set alarm, glance at tomorrow's schedule, done.
+
+**12:30 AM** — Sleep (6 hrs → wake 6:15)
+
+---
+
+### Class Day Summary
+
+|Block|Time|Hours|What|
 |---|---|---|---|
-|**#1**|IIUC coursework (class + study)|4.0 GPA is non-negotiable|30-35|
-|**#2**|Research (BengaliBench)|Paper submission = transfer success|10-12|
-|**#3**|Freelance work|Income needed|14-18|
-|**#4**|CP / ICPC prep|Long-term skill + backup plan|5-7|
-|**#5**|DET/SAT prep|Light daily habit now, intensive later|5-7|
-|**#6**|External courses (MIT/Harvard)|Only during gaps/weekends|3-5|
-|**#7**|Health (walk, rest)|Non-negotiable for sustainability|7|
+|DET practice|6:45–7:15|0.5|English test prep|
+|IIUC (class)|8:30–5:30|9.0|Classes + break productivity|
+|Walk + decompress|6:00–6:45|0.75|Health + transition|
+|Dinner + rest|6:45–7:30|0.75|Recovery|
+|Research|7:30–9:30|2.0|BengaliBench|
+|Freelance|9:45–12:15|2.5|Income|
+|**Evening productive**||**~5.0**||
+|**Sleep**|12:30–6:15|**~6**||
 
-**Total: ~74-91 hrs/week across everything (including class time)**
-
-This is tight but honest. You're awake ~16-17 hrs/day × 7 = ~112-119 hrs. After meals, hygiene, transitions, you realistically have ~95-100 usable hours. This leaves buffer.
-
----
-
-## Your Weekly Template
-
-### SUNDAY – THURSDAY (Class Days)
-
-Your IIUC classes run roughly 8 AM – 2/3 PM with breaks between. I'm giving you a **flexible framework** — you slot your actual class times in.
+I know 6 hours of sleep is tight. On days you can afford it, sleep at 12:00 instead of 12:30. Weekends will compensate.
 
 ---
 
-**6:30 AM — Wake Up + Morning Routine** (30 min)
+## THURSDAY (Weekend Day 1 — Deep Work Day)
 
-- Shower, get ready
-- No phone scrolling. Grab water.
+This is your most valuable day. No IIUC. This is where you make real progress on things you can't do in 2-hour evening blocks.
 
-**7:00–7:45 AM — DET/English Practice** (45 min)
+**8:00 AM** — Wake up (sleep in 1.75 hrs — earned)
 
-- Duolingo English Test practice OR vocabulary flashcards
-- This is low-cognitive-load, perfect for morning warmup
-- _Why morning:_ Consistency. Small daily habit > weekend cramming
+**8:00–8:30** — Morning routine + breakfast
 
-**7:45–8:00 AM — Commute / Prep for Class**
+**8:30–9:15 AM** — DET/SAT Practice (45 min)
 
-**8:00 AM – 2:30 PM — IIUC Block** (~6.5 hrs including breaks)
+- Thursday mornings: full practice section or mock test segment
+- Once SAT prep starts (May/Jun): alternate DET and SAT
 
-- **During classes:** 100% focus. Sit front. Take notes. Ask questions.
-- **During breaks between classes (30-60 min gaps):**
-    - Option A: Review previous lecture notes (15 min) — reinforces GPA
-    - Option B: Read 1 research paper on phone/laptop (if break > 45 min)
-    - Option C: Do 2-3 CP problems on phone (Codeforces easy/medium)
-    - Option D: Rest if tired. Seriously. A rested brain in the next class > grinding in breaks
-    - **Do NOT do freelance work in breaks.** Context switching kills focus.
+**9:15 AM–12:15 PM** — CP / ICPC Deep Session (3 hrs)
 
-**2:30–3:30 PM — Lunch + Decompression** (1 hr)
+- Virtual contest on Codeforces, or targeted problem set
+- Work through problems at your edge (not easy ones, not impossible ones)
+- This is your ONLY dedicated CP block for the week. Make it count.
+- _Why Thursday morning?_ Freshest mind of the week after rest.
 
-- Eat properly
-- Light phone time, social, whatever
-- No guilt. This is recovery.
+**12:15–1:15 PM** — Lunch + rest (1 hr)
 
-**3:30–4:15 PM — Walk / Exercise** (45 min)
+**1:15–2:00 PM** — Walk / Exercise (45 min)
 
-- Go outside. Walk around campus or neighborhood.
-- No headphones with lectures. Listen to music or podcast or nothing.
-- This is for your body and mental health. Non-negotiable.
+**2:00–5:00 PM** — Research Deep Work (3 hrs)
 
-**4:15–4:30 PM — Transition** (15 min)
+- BengaliBench: bulk work that can't be done in 2-hr evening slots
+    - Running model evaluations (these take time)
+    - Writing full paper sections
+    - Quality control + inter-annotator agreement calculations
+    - Batch question collection (30-40 questions in one session)
+- Phone on silent. No Slack. No freelance.
 
-- Water, settle at desk, open laptop
+**5:00–5:30 PM** — Break
 
-**4:30–6:30 PM — IIUC Study / Homework** (2 hrs)
+**5:30–7:30 PM** — Freelance Work (2 hrs)
 
-- Review today's lectures
-- Complete assignments (always finish 2 days before deadline)
-- Practice problems for math/physics/programming courses
-- _Why now:_ Material is fresh from morning classes. Best retention window.
+- Catch up on weekly client commitments
+- This compensates for any weekday freelance shortfall
 
-**6:30–7:15 PM — Dinner + Prayer/Break** (45 min)
+**7:30–8:15 PM** — Dinner
 
-**7:15–9:15 PM — Research Work (BengaliBench)** (2 hrs)
+**8:15–10:15 PM** — Flexible Block (2 hrs)
 
-- **Mon/Wed:** Collect benchmark questions (target: 15-20 questions per session)
-    - Academic domain: SSC/HSC textbooks
-    - Cultural domain: Bengali idioms, proverbs
-    - Safety domain: Bias test cases
-- **Tue/Thu:** Read papers + write sections of your paper
-    - Literature review, methodology, related work
-    - Run model evaluations when infrastructure is ready
-- **Sun:** Weekly research planning + Read Between Lines expansion (30 min) + BengaliBench
+- Rotate based on what's most needed:
+    - Behind on IIUC homework → study
+    - External coursework (MIT/Harvard ML courses)
+    - Open source contributions (LangChain, browser-use)
+    - Extra research if paper deadline approaching
+    - Extra CP if contest is this weekend
 
-**9:15–9:30 PM — Short Break** (15 min)
+**10:15–11:30 PM** — Personal time (1.25 hrs)
 
-**9:30 PM–12:00 AM — Freelance Work** (2.5 hrs)
+- Whatever you want. Gaming, YouTube, friends, phone.
+- Guilt-free. This is fuel, not waste.
 
-- Client projects, AIMarketCap, Drishtikon maintenance
-- Time-boxed. When midnight hits, you stop. No exceptions.
-- If you have no active freelance project: use this for CP practice or open source
-
-**12:00–12:30 AM — Wind Down** (30 min)
-
-- Light reading, personal time
-- Plan tomorrow (2 min — just glance at calendar)
-- No new work starts after midnight
-
-**12:30 AM — Sleep**
-
-- Target: 6.5-7 hrs. You wake at 6:30, so lights out by 12:30.
+**11:30 PM** — Sleep
 
 ---
 
-### Weekday Summary
+### Thursday Summary
 
-|Block|Time|Hours|Activity|
+|Block|Time|Hours|What|
 |---|---|---|---|
-|Morning prep|6:30–7:45|1.25|Wake + DET practice|
-|IIUC|8:00–2:30|6.5|Classes + productive breaks|
-|Recovery|2:30–4:30|2.0|Lunch + Walk|
-|Study|4:30–6:30|2.0|IIUC homework/review|
-|Dinner|6:30–7:15|0.75|Break|
-|Research|7:15–9:15|2.0|BengaliBench|
-|Freelance|9:30–12:00|2.5|Client work|
-|Wind down|12:00–12:30|0.5|Rest|
-|**Total productive**||**~14.25**||
-|**Sleep**|12:30–6:30|**6-7**||
+|DET/SAT|8:30–9:15|0.75|Test prep|
+|CP/ICPC|9:15–12:15|3.0|Competitive programming|
+|Rest + walk|12:15–2:00|1.75|Recovery|
+|Research|2:00–5:00|3.0|BengaliBench deep work|
+|Freelance|5:30–7:30|2.0|Client work|
+|Flexible|8:15–10:15|2.0|Courses / catch-up / OSS|
+|Personal|10:15–11:30|1.25|Recharge|
+|**Total productive**||**~10.75**||
 
 ---
 
-### FRIDAY (Weekend Day 1 — Deep Work Day)
+## FRIDAY (Weekend Day 2 — Flex + Recovery)
 
-Friday is your most valuable day. No classes. Use it for the things that need uninterrupted focus.
+Friday is your buffer + recovery day. Some weeks you'll be behind, some weeks you'll feel good. This day adapts.
 
-**8:00 AM — Wake Up** (sleeping in 1.5 hrs — earned)
+**9:00 AM** — Wake up (latest of the week — full recovery sleep)
 
-**8:00–8:30 AM — Morning routine**
+**9:00–9:30** — Morning routine
 
-**8:30–9:15 AM — DET/SAT Practice** (45 min)
+**9:30–10:30 AM** — Weekly Review (1 hr)
 
-- Friday mornings: take a full DET practice section or SAT math set
+- Pull out a notebook or open Notion. Answer honestly:
+    - IIUC: Attendance 100%? Assignments done? Understanding solid?
+    - Research: How many benchmark questions this week? (Target: 50-75/week)
+    - DET: Practiced every day? (Target: 5/5 class days + 1 Thursday)
+    - CP: Problems solved? (Target: 8-12/week across breaks + Thursday)
+    - Freelance: Hours hit? Client happy?
+- Plan next week's priorities. What's the ONE thing that matters most?
 
-**9:15–12:15 PM — ICPC / CP Deep Session** (3 hrs)
+**10:30 AM–12:30 PM** — Catch-Up Block (2 hrs)
 
-- This is your dedicated CP block for the week
-- Codeforces virtual contest or targeted practice
-- Work through 3-5 problems of increasing difficulty
-- _Why Friday morning:_ Fresh mind, no interruptions, best for hard thinking
+- Whatever is most behind from the week:
+    - IIUC homework not done? → Do it now
+    - Research question quota short? → Collect now
+    - Freelance deadline Monday? → Work on it now
+    - Nothing behind? → Extra CP or paper writing
 
-**12:15–1:15 PM — Lunch + Rest** (1 hr)
+**12:30–1:30 PM** — Lunch
 
-**1:15–2:00 PM — Walk / Exercise** (45 min)
+**1:30–2:30 PM** — Nap / Full Rest (1 hr)
 
-**2:00–5:00 PM — Research Deep Work** (3 hrs)
+- Actually rest. You ran a 5-day marathon of 8:30 AM – 12:30 AM days.
+- Your body needs this. Your brain consolidates learning during rest.
 
-- BengaliBench: bulk question collection, model evaluation, paper writing
-- This is where you make real progress on the paper
-- No Slack, no messages during this block
+**2:30–3:15 PM** — Walk / Exercise (45 min)
 
-**5:00–5:30 PM — Break + Prayer**
+**3:15–5:15 PM** — Deep Work Block (2 hrs)
 
-**5:30–7:30 PM — External Coursework** (2 hrs)
+- Rotating focus:
+    - Week 1 of month: Extra research (paper writing)
+    - Week 2: External coursework (MIT/Harvard)
+    - Week 3: Open source contributions
+    - Week 4: IIUC exam prep / review
 
-- MIT OCW / Harvard CS courses (ML, AI, whatever you're following)
-- OR: IIUC coursework catch-up if behind
+**5:15–6:00 PM** — Break + prayer
 
-**7:30–8:15 PM — Dinner**
+**6:00–8:00 PM** — Freelance / Projects (2 hrs)
 
-**8:15–10:15 PM — Freelance Work** (2 hrs)
+- Wrap up weekly freelance quota
+- Or Drishtikon / AIMarketCap maintenance
 
-**10:15–11:30 PM — Open Source / Personal Projects** (1.25 hrs)
+**8:00–9:00 PM** — Dinner + Family (1 hr)
 
-- LangChain contributions
-- Drishtikon features
-- GitHub profile maintenance
+**9:00–11:00 PM** — Personal Time (2 hrs)
 
-**11:30 PM — Wind down, sleep by 12:00**
+- This is your weekend night. No work.
+- Games, movies, friends, whatever recharges you.
+- **This is not optional.** Skipping rest → burnout → you drop everything for a week → net negative.
+
+**11:00–11:30 PM** — Light prep for Saturday (first class day)
+
+- Glance at tomorrow's class schedule
+- Pack bag
+
+**11:30 PM** — Sleep (early for Saturday 6:15 AM wake)
 
 ---
 
 ### Friday Summary
 
-|Block|Time|Hours|Activity|
+|Block|Time|Hours|What|
 |---|---|---|---|
-|DET/SAT|8:30–9:15|0.75|Test prep|
-|CP/ICPC|9:15–12:15|3.0|Deep competitive programming|
-|Recovery|12:15–2:00|1.75|Lunch + walk|
-|Research|2:00–5:00|3.0|BengaliBench deep work|
-|Courses|5:30–7:30|2.0|MIT/Harvard courseware|
-|Freelance|8:15–10:15|2.0|Client work|
-|Open source|10:15–11:30|1.25|Contributions|
-|**Total productive**||**~13**||
-
----
-
-### SATURDAY (Weekend Day 2 — Flex + Recovery)
-
-Saturday is your buffer day. Some weeks you'll need catch-up. Some weeks you'll feel good and push hard. Build in flexibility.
-
-**9:00 AM — Wake Up** (latest wake time of the week)
-
-**9:00–9:30 AM — Morning routine**
-
-**9:30–10:30 AM — Weekly Review** (1 hr)
-
-- How did this week go? Track:
-    - IIUC: Did I attend 100%? Assignments done?
-    - Research: How many benchmark questions collected?
-    - DET practice: Did I practice every day?
-    - CP: Problems solved this week?
-    - Freelance: Hours completed? Income on track?
-- Plan next week's priorities
-- Update any tracking sheets
-
-**10:30 AM–12:30 PM — Catch-Up Block** (2 hrs)
-
-- Whatever is most behind:
-    - Fell behind on IIUC homework? Do it now.
-    - Research quota not met? Collect questions now.
-    - Freelance deadline approaching? Work on it.
-    - Nothing behind? Extra CP practice or paper reading.
-
-**12:30–1:30 PM — Lunch**
-
-**1:30–2:30 PM — Rest / Nap** (1 hr)
-
-- Actually rest. You've worked hard all week.
-- Nap if needed. No guilt.
-
-**2:30–3:15 PM — Walk / Exercise** (45 min)
-
-**3:15–5:15 PM — Flexible Deep Work** (2 hrs)
-
-- Rotate weekly:
-    - Week 1: Extra research work
-    - Week 2: SAT math practice (when SAT prep starts)
-    - Week 3: CP contest (Codeforces round if available)
-    - Week 4: External coursework
-
-**5:15–6:00 PM — Break + Prayer**
-
-**6:00–8:00 PM — Freelance / Projects** (2 hrs)
-
-**8:00–9:00 PM — Dinner + Family/Personal Time** (1 hr)
-
-**9:00–11:00 PM — Personal Time** (2 hrs)
-
-- Gaming, movies, social media, calling friends
-- Whatever recharges you
-- This is NOT optional. Burnout = everything fails.
-
-**11:00 PM — Wind down**
-
-**11:30 PM — Sleep** (early night for Sunday start)
-
----
-
-### Saturday Summary
-
-|Block|Time|Hours|Activity|
-|---|---|---|---|
-|Review|9:30–10:30|1.0|Weekly planning|
+|Weekly review|9:30–10:30|1.0|Planning|
 |Catch-up|10:30–12:30|2.0|Whatever's behind|
-|Rest|1:30–3:15|1.75|Nap + walk|
+|Rest + walk|1:30–3:15|1.75|Nap + exercise|
 |Deep work|3:15–5:15|2.0|Rotating focus|
 |Freelance|6:00–8:00|2.0|Projects|
-|Personal|9:00–11:00|2.0|Recharge|
+|Personal|9:00–11:00|2.0|Full rest|
 |**Total productive**||**~7**||
-|**Recovery/personal**||**~6**||
+|**Recovery**||**~5.5**||
 
 ---
 
-## Weekly Hours Totals
+## Weekly Hours (Honest Count)
 
-|Activity|Sun-Thu (×5)|Fri|Sat|**Weekly Total**|
+|Activity|Class Days (×5)|Thu|Fri|**Weekly Total**|
 |---|---|---|---|---|
-|IIUC (class + study)|8.5 × 5 = 42.5|0|0-2|**42.5–44.5**|
-|Research (BengaliBench)|2 × 5 = 10|3|0-2|**13–15**|
+|IIUC (class + break study)|9 × 5 = 45|—|—|**~45**|
+|IIUC homework (evening)|—|—|0-2|**0-2**|
+|Research|2 × 5 = 10|3|0-2|**13-15**|
 |Freelance|2.5 × 5 = 12.5|2|2|**16.5**|
-|DET/SAT prep|0.75 × 5 = 3.75|0.75|0|**4.5**|
-|CP/ICPC|0-1 (in breaks)|3|0-2|**5–7**|
-|External courses|0|2|0-2|**2–4**|
-|Open source|0|1.25|0|**1.25**|
-|Walk/exercise|0.75 × 5 = 3.75|0.75|0.75|**5.25**|
-|**Total productive**||||**~82–92**|
-|**Rest/personal/meals**||||**~25-30**|
+|DET/SAT prep|0.5 × 5 = 2.5|0.75|—|**3.25**|
+|CP/ICPC|~0.5 (breaks) × 5 = 2.5|3|—|**5.5**|
+|External courses / OSS|—|2|0-2|**2-4**|
+|Walk / exercise|0.75 × 5 = 3.75|0.75|0.75|**5.25**|
+|Personal / rest|—|1.25|2.0|**3.25**|
+|**TOTAL**||||**~87-95**|
 
 ---
 
-## The Rules
+## What Makes This Actually Followable
 
-### Rule 1: GPA Comes First, Always
+**1. You only have 3 things to do each evening (class days):** Walk → Research → Freelance. That's it. Not 7 activities with 15-minute transitions.
 
-If you're behind on IIUC coursework, it eats into research time, then freelance time, then CP time. Never the other way around. A 3.7 GPA with an EMNLP paper is worse than a 4.0 GPA with a paper under review.
+**2. All the "nice to have" stuff lives on weekends:** CP deep work, external courses, open source — they have dedicated Thursday/Friday slots, not crammed into exhausted weeknight hours.
 
-### Rule 2: Time-Box Everything
+**3. Rest is scheduled, not something you "find time for":** Friday afternoon nap. Friday night off. Saturday (class day) you'll be tired, but you slept well Friday night.
 
-When the clock says your block is over, you stop. Freelance at midnight? Done. Research at 9:15? Done. The discipline of stopping is harder than the discipline of starting, but it prevents one activity from eating all others.
-
-### Rule 3: Protect Your Walk
-
-You said it yourself — sitting all day will wreck you. The 45-min afternoon walk is sacred. Rain? Walk with an umbrella. Tired? Walk slowly. The only excuse is genuine illness.
-
-### Rule 4: Saturday Night is Off
-
-9 PM Saturday to sleep = your time. No work. No guilt. This is what keeps you going for months instead of burning out in weeks.
-
-### Rule 5: Track Weekly, Not Daily
-
-Don't beat yourself up if Tuesday was bad. Look at the week: did you hit ~80% of targets? That's success. Adjust next week. Daily tracking creates anxiety. Weekly tracking creates momentum.
-
-### Rule 6: ICPC Is a Marathon
-
-You're not going to World Finals this year. The CP block (Friday mornings + break-time problems) builds the muscle over months. Consistent 5-7 hrs/week for a year > cramming 20 hrs/week for a month then quitting.
-
-### Rule 7: One Freelance Project at a Time
-
-You said this yourself. Don't stack clients. Finish one, start another. Protects your time and your quality.
+**4. The break-time choices are flexible:** Some days you'll smash CP problems in breaks. Some days you'll stare at the wall. Both are fine. The evening blocks are what matter.
 
 ---
 
-## Phase Adjustments
+## Overcoming the IIUC Bias: What to Focus Energy On
 
-This routine is for **Feb 10 – Apr 4** (Lecture Period I).
+Since nobody knows IIUC, here's what actually builds your case:
 
-### Midterm Mode (Apr 6–20):
+**In the next 5 months (Feb–Jun):**
 
-- **Pause:** Research, CP, external courses, open source
-- **Reduce:** Freelance to minimum (1 hr/day)
-- **Increase:** IIUC study to 6-8 hrs/day
-- **Keep:** DET practice (30 min/day only), walk, rest
+|Evidence|How It Helps|Your Action|
+|---|---|---|
+|BengaliBench paper submitted to EMNLP|"He does real research independently"|10-15 hrs/week of research|
+|4.0 GPA at IIUC|"He's serious about academics"|Full attention in class + evening study|
+|DET 125+|"He can function in English"|30 min/day habit|
+|Open source commits (LangChain)|"He contributes to global projects"|Thursday flexible block|
+|Drishtikon live + growing|"He ships products that matter"|Freelance block maintenance|
 
-### Post-Midterm (Apr 21 – Jun 30):
+**Things that DON'T help your transfer app but are worth doing anyway:**
 
-- **Increase:** Research to 3 hrs/day (paper deadline approaching)
-- **Add:** SAT prep (replace some DET time)
-- **Keep:** Everything else same
-
-### Finals Mode (Jul 4–27):
-
-- Same as Midterm Mode. GPA above all.
-
-### Summer Sprint (Aug):
-
-- SAT exam on Aug 22
-- Essay writing begins
-- Research paper should be submitted by now
+- ICPC prep → backup plan if transfer fails, and impressive later
+- MIT/Harvard courseware → makes you a better engineer
+- These go in weekend flexible blocks, not prime time
 
 ---
 
-## What You Should Do TODAY (Feb 10)
+## Start Today (Feb 10)
 
-1. **Set your alarms:** 6:30 AM for tomorrow (Sunday)
-2. **Download Toggl or use your phone timer** — track actual hours this week to see if this routine is realistic for YOUR class schedule
-3. **Print or save this routine** somewhere you'll see it every morning
-4. **Identify your break times at IIUC** — write down your actual class schedule so you know when breaks are
-5. **Do tonight's freelance block** (9:30 PM – 12:00 AM) and then STOP
+It's Tuesday. You have class tomorrow (Wednesday), then Thursday is your first real weekend day with this routine.
 
-That's it. Don't try to "catch up" on everything tonight. Start the routine tomorrow morning.
+**Tonight:**
 
----
+1. Set alarm for 6:15 AM
+2. Do your freelance block (9:45 PM – 12:15 AM)
+3. Sleep by 12:30
 
-## The Honest Truth
+**Tomorrow (Wednesday) — first full class day with new routine:**
 
-You want ICPC World Finals AND top US transfer AND research publications AND freelance income AND external courses. That's 5 ambitious goals. Most people pursue 1-2 at a time.
+1. 6:45 AM: 30 min DET practice
+2. 8:30–5:30: IIUC (use 1 break for 5 BengaliBench questions)
+3. 6:00 PM: Walk
+4. 7:30 PM: Research (2 hrs)
+5. 9:45 PM: Freelance (2.5 hrs)
+6. 12:30: Sleep
 
-You CAN pursue all of them — but not all at maximum intensity simultaneously. This routine gives each one a real slot, but the honest truth is:
+**Thursday — first weekend day:** Follow the Thursday template. CP deep work in the morning. Research deep work in the afternoon.
 
-- **Feb–Jul 2026:** GPA + Research + DET are the priorities (they directly feed your transfer app)
-- **ICPC prep is a slow burn** — 5-7 hrs/week now, scaling up if transfer doesn't work out
-- **External courses are supplementary** — they make you a better engineer but don't directly appear on your transfer app
-- **Freelance is survival income** — do the minimum viable work, not maximum
-
-If you get into a top US university, you'll have world-class resources for ICPC, courses, and research. Getting there is the bottleneck. Focus accordingly.
-
-**Execute this for 2 weeks. Then adjust based on what actually happened, not what you wished happened.**
+**Run this for 2 weeks. Track what actually happens. Then we adjust.**
