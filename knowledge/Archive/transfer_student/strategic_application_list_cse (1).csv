@@ -1,0 +1,24 @@
+Application Strategy,University Name,Transfer Acceptance Rate (%),Admission Policy,Location,Financial Aid for International Transfers,Application Requirement,Notes
+PRIORITY 1: Need-Blind (Apply to ALL 7),Colby College,10.8,Need-Blind (all applicants),"Waterville, ME",Meets 100% demonstrated need,CSS Profile,Need-blind for ALL applicants including international
+PRIORITY 1: Need-Blind (Apply to ALL 7),Dartmouth College,7.35,"Need-Blind (first-year), Need-Aware (transfer)","Hanover, NH",Meets 100% demonstrated need,CSS Profile,Need-blind since 2022 for first-years
+PRIORITY 1: Need-Blind (Apply to ALL 7),Amherst College,5.96,Need-Blind,"Amherst, MA",Meets 100% demonstrated need,CSS Profile or ISAFA,Need-blind for all; one of 6 truly need-blind
+PRIORITY 1: Need-Blind (Apply to ALL 7),Princeton University,1.91,Need-Blind,"Princeton, NJ",Meets 100% demonstrated need,Must apply for aid at admission,Need-blind for all; first US university to eliminate loans
+PRIORITY 1: Need-Blind (Apply to ALL 7),Massachusetts Institute of Technology (MIT),1.7,Need-Blind,"Cambridge, MA",Meets 100% demonstrated need,CSS Profile,Need-blind for all; meets 100% need without loans
+PRIORITY 1: Need-Blind (Apply to ALL 7),Stanford University,1.58,Need-Blind,"Stanford, CA",Meets 100% demonstrated need,Must apply for aid at admission,Need-blind for all applicants
+PRIORITY 1: Need-Blind (Apply to ALL 7),Yale University,1.46,Need-Blind,"New Haven, CT",Meets 100% demonstrated need,Must apply for aid at admission,"Need-blind for all; grant aid only, no loans"
+PRIORITY 1: Need-Blind (Apply to ALL 7),Harvard University,0.71,Need-Blind,"Cambridge, MA",Meets 100% demonstrated need,Must apply for aid at admission,Need-blind for all; one of 6 truly need-blind for intl transfers
+PRIORITY 2: High-Acceptance Need-Aware (13%+),Columbia University,14.74,Need-Aware,"New York, NY",Meets 100% demonstrated need,"CSS Profile, must indicate at admission",Must indicate aid interest at admission; cannot apply later
+PRIORITY 2: High-Acceptance Need-Aware (13%+),Trinity College (CT),14.0,Need-Aware,"Hartford, CT",Meets 100% demonstrated need,CSS Profile or Trinity ISFAA,Need-aware; meets 100% demonstrated need
+PRIORITY 2: High-Acceptance Need-Aware (13%+),Cornell University,13.85,Need-Aware,"Ithaca, NY",Meets 100% demonstrated need,"CSS Profile, by March 15",Tata & Levitan scholarships for specific countries
+PRIORITY 2: High-Acceptance Need-Aware (13%+),University of Chicago,13.62,Need-Aware,"Chicago, IL",Meets full demonstrated need,CSS Profile,Need-aware for transfers; meets full demonstrated need
+PRIORITY 2: High-Acceptance Need-Aware (13%+),Oberlin College,13.0,Need-Aware,"Oberlin, OH","$10,000 Oberlin Commitment + additional aid",CSS Profile,"$10,000 automatic for all transfers"
+PRIORITY 3: Good-Acceptance Need-Aware (10-13%),Hamilton College,12.41,Need-Aware,"Clinton, NY",Meets 100% demonstrated need,"CSS Profile, must apply at admission",Must apply at admission; meets full need
+PRIORITY 3: Good-Acceptance Need-Aware (10-13%),Macalester College,12.0,Need-Aware,"St. Paul, MN","Need-based aid, merit $15,000-$26,000","CSS Profile or ISAFA, by March 15",Turck merit scholarship $15k-$26k available
+PRIORITY 3: Good-Acceptance Need-Aware (10-13%),Bates College,11.5,Need-Aware,"Lewiston, ME",Meets 100% demonstrated need,BISAFA (Bates form),Must apply at admission; 4-year aid decision
+PRIORITY 3: Good-Acceptance Need-Aware (10-13%),Smith College,11.0,Need-Aware,"Northampton, MA","Meets 100% need, no loans",CSS Profile,Women's college; no loans starting fall 2022
+PRIORITY 3: Good-Acceptance Need-Aware (10-13%),Carleton College,10.5,Need-Aware,"Northfield, MN",Meets 100% demonstrated need,CSS Profile or ISAFA,Limited international aid funding available
+PRIORITY 3: Good-Acceptance Need-Aware (10-13%),Colgate University,10.0,Need-Aware,"Hamilton, NY",Meets 100% demonstrated need,CSS Profile,Meets 100% need for admitted students
+PRIORITY 4: Moderate-Acceptance (7-10%),Wesleyan University,9.5,Need-Aware,"Middletown, CT","Meets 100% need, no loans, avg $83,185",CSS Profile,No loans required; very competitive
+PRIORITY 4: Moderate-Acceptance (7-10%),Wellesley College,9.0,Need-Aware,"Wellesley, MA","Meets 100% demonstrated need, avg $65,500/year",CSS Profile,Women's college; nearly 60% receive aid
+PRIORITY 4: Moderate-Acceptance (7-10%),Vassar College,8.5,Need-Aware,"Poughkeepsie, NY","Meets 100% demonstrated need, avg $56,923/year",CSS Profile,Women's college; need-aware but generous
+PRIORITY 5: Low-Acceptance (<7%),Williams College,2.97,Need-Aware,"Williamstown, MA","Meets 100% demonstrated need, avg $80,000/year",CSS Profile,Need-aware for intl; avg ~70% of intl students receive aid
